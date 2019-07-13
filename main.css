@@ -69,6 +69,10 @@ a:hover{
     width: 40%;
 }
 
+#home a {
+    color: currentColor;
+}
+
 .circular--square {
   border-radius: 50%;
   display: block;
