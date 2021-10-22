@@ -472,18 +472,17 @@ textarea.form-control {
 
 .hero-area h2 {
   position: relative;
-  z-index: 2;
+  z-index: 1;
 }
 
 .hero-area p {
   position: relative;
-  z-index: 2;
+  z-index: 1;
   font-size: 1.5em;
 }
 
 .layer {
   position: absolute;
-  z-index: 1;
 }
 
 #l1 {
